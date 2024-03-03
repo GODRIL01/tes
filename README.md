@@ -1,10 +1,10 @@
-#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",0
+#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" XTV",BEIN SPORTS 1
 http://xtv.ooo:8080/3212571066/abc123/350900
 
-#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",1
+#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" XTV",BEIN SPORTS 3
 http://xtv.ooo:8080/3212571066/abc123/350901
 
-#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",2
+#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" XTV",BTV
 http://xtv.ooo:8080/3212571066/abc123/350902
 
 #EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",3
