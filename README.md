@@ -1,7 +1,4 @@
-Gmail	GODRIL STORE <godrilstore@gmail.com>
-tex tv indonesia
-Lemon Channel <byu4876@gmail.com>	16 Maret 2024 pukul 02.29
-Kepada: godrilstore@gmail.com
+
 [
 {
   "id":"1",
